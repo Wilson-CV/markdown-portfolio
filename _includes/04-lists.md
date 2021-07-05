@@ -1,4 +1,4 @@
-###My Favorite things 
+### My Favorite things 
 1. Swmming
 2. Jogging
 3. Coding! 
